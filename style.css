@@ -1,0 +1,50 @@
+ body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            padding: 40px;
+            background-color: #876969;
+        }
+        header {
+          
+            background-color: #3d30ae;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        header h1 {
+          
+            margin: 0;
+        }
+        section {
+            text-align: center;
+            padding: 2rem;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #f10505;
+        }
+        .contact-info, .education, .skills {
+            margin-bottom: 1.5rem;
+        }
+        .contact-info li, .education li, .skills li {
+            margin-bottom: 0.5rem;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    li{
+        list-style: none;
+    }
+    img{
+    
+    }
+    
